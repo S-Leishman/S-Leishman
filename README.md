@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/S-Leishman/S-Leishman/main/assets/banner.png" alt="Scott Leishman Banner" width="80%">
-</p>
+<img src="assets/assets/banner.png" alt="Banner">
+
 
 
 
