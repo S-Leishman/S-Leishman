@@ -1,1 +1,31 @@
-# Scott Leishman\nSystems Architect & AI Developer\n\n## Current\n* **2026** — ASU Computer Science / AI Systems\n* **2026** — FleetProof & Verifiable agent systems (Student/Experimental)\n\n## Earlier Technical Work\n* **2016 — Archive: UAS Human Factors & BLOS Operations**\n  Coursework examining Global Hawk UAS operations, BLOS command-and-control, sensor systems, and human-factors considerations in unmanned aviation (Embry-Riddle).\n\n## Professional / Company\n**Aevion LLC** → https://github.com/Aevion-ai \n\n---\n*Namespace distinction: `S-Leishman` is for student, archival, and experimental work. `Aevion-ai` is the canonical Aevion LLC enterprise namespace containing company IP and production architecture.*
+# Scott Leishman
+
+**Systems Architect & AI Developer**
+
+Building verifiable AI systems, deterministic control planes, and evidence-backed agent infrastructure.
+
+## Current
+
+- **Arizona State University** — Computer Science / AI systems
+- **[FleetProof](https://github.com/S-Leishman/aevion-fleetproof-google)** — verifiable agent authority and evidence-backed execution: a language model routes work, while a deterministic policy engine decides what may actually happen.
+
+## Earlier Technical Work
+
+- **UAS Human Factors & BLOS Operations** — Embry-Riddle Aeronautical University
+  - Coursework examining Global Hawk UAS operations, beyond-line-of-sight command and control, sensor systems, and human-factors considerations in unmanned aviation.
+
+## Professional
+
+**Founder, Aevion LLC**
+
+Building verifiable AI systems where models can propose and route work while deterministic policy, evidence receipts, and explicit human authority govern consequential effects.
+
+- Company: <https://aevion.ai>
+- Engineering organization: <https://github.com/Aevion-ai>
+
+## Namespaces
+
+`S-Leishman/*` contains student, academic, archival, and experimental work.
+`Aevion-ai/*` is the Aevion LLC engineering organization.
+
+Student projects may reference Aevion concepts where appropriate, but are not the canonical company implementation.
