@@ -6,12 +6,12 @@ Building verifiable AI systems, deterministic control planes, and evidence-backe
 
 ## Current
 
-- **2026 — Arizona State University:** Computer Science / AI systems
-- **2026 — FleetProof:** student/experimental work on verifiable agent authority and evidence-backed execution
+- **2026  Arizona State University:** Computer Science / AI systems
+- **2026  FleetProof:** student/experimental work on verifiable agent authority and evidence-backed execution
 
 ## Earlier Technical Work
 
-- **2016 — UAS Human Factors & BLOS Operations, Embry-Riddle Aeronautical University**
+- **2016  UAS Human Factors & BLOS Operations, Embry-Riddle Aeronautical University**
   - Coursework examining Global Hawk UAS operations, beyond-line-of-sight command and control, sensor systems, and human-factors considerations in unmanned aviation.
 
 ## Professional / Company
