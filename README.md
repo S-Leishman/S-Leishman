@@ -1,1 +1,32 @@
-# Scott Leishman\nSystems Architect & AI Developer\n\n## Current\n* **2026** — ASU Computer Science / AI Systems\n* **2026** — FleetProof & Verifiable agent systems (Student/Experimental)\n\n## Earlier Technical Work\n* **2016 — Archive: UAS Human Factors & BLOS Operations**\n  Coursework examining Global Hawk UAS operations, BLOS command-and-control, sensor systems, and human-factors considerations in unmanned aviation (Embry-Riddle).\n\n## Professional / Company\n**Aevion LLC** → https://github.com/Aevion-ai \n\n---\n*Namespace distinction: `S-Leishman` is for student, archival, and experimental work. `Aevion-ai` is the canonical Aevion LLC enterprise namespace containing company IP and production architecture.*
+# Scott Leishman
+
+**Systems Architect & AI Developer**
+
+Building verifiable AI systems, deterministic control planes, and evidence-backed agent infrastructure.
+
+## Current
+
+- **2026 — Arizona State University:** Computer Science / AI systems
+- **2026 — FleetProof:** Student/experimental work on verifiable agent authority and evidence-backed execution
+
+## Earlier Technical Work
+
+- **2016 — UAS Human Factors & BLOS Operations, Embry-Riddle Aeronautical University**
+  Coursework examining Global Hawk UAS operations, beyond-line-of-sight command and control, sensor systems, and human-factors considerations in unmanned aviation.
+
+## Professional / Company
+
+**Founder, Aevion LLC**
+
+Building verifiable AI systems where models can propose and route work while deterministic policy, evidence receipts, and explicit human authority govern consequential effects.
+
+- Company: https://aevion.ai
+- Canonical engineering organization: https://github.com/Aevion-ai
+
+## Namespace
+
+`S-Leishman/*` contains student, academic, archival, and experimental work.
+
+`Aevion-ai/*` is the canonical Aevion LLC engineering organization.
+
+Student projects may reference Aevion concepts where appropriate, but they must not be represented as the canonical company implementation unless the evidence establishes that.
